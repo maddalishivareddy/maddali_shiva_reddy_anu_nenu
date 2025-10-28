@@ -1,5 +1,5 @@
-[2025-10-28 12:03] Flag Start: vnr_w4rz0n3{
-[2025-10-28 12:07] {h3r0_ism_alive_
-[2025-10-28 12:09] Broken lines are like movie plot twi5t5.
-[2025-10-28 12:15] Find the 5ecret 5cript. It'5 a blockbu5ter.
-[2025-10-28 12:21] }  # cl05e5 the flag
+[2025-10-28 12:03] Log Entry #1: 5cr4tch1ng th3 sur7ac3
+[2025-10-28 12:07] Log Entry #2: 7r@c35 0f s3cr3t5 l@ur3d in t3xt5
+[2025-10-28 12:09] Log Entry #3: D3c0d3 t0 r3v34l r3m1nn15c3nc35
+[2025-10-28 12:15] Log Entry #4: F0ll0w th3 m3m0r135 t0 f1nd th3 key
+[2025-10-28 12:21] Log Entry #5: J0urn3y'5 3nd, n0t th3 5tory'

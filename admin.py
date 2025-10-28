@@ -1,7 +1,9 @@
 import os
 
 cred_username = "maddali"
-cred_password = "reddy_rules"
+cred_password = "!Nv1s1bl3_M4dd13"
+
+
 
 def filter_v1(cmd):
     blacklist = ['&&', ';', '|', '`', '$(', 'cat', 'less', 'more', 'head', 'tail']

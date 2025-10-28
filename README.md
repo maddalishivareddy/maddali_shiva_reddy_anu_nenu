@@ -1,14 +1,4 @@
-# Welcome to the Race for the Superstar’s Secret
-
-A new repo surfaced, rumored to be linked to the legendary rival Maddali Shiva Reddy. Strange clues, half-truths, and broken logs are scattered within—but nothing is quite as it seems.
-
-Explore every corner—history is as important as the present.  
-Some information is lost in translation, fragmented, or hidden in plain sight.  
-Only those who adapt and dig deeper than the rest will be able to piece together what’s missing.
-
-There’s a protected script in this repo.  
-There are files that don’t want to give up their secrets easily.  
-Good luck discovering the truth behind the mask.
-
----
-Flag format: vnr_w4rz0n3{something}
+Maddali Shiva Reddy speaking, you’ve landed in my repo, huh? Here, things don’t come easy.
+This isn’t a playground for amateurs.
+Every move you make here, every file you touch, has layers beneath it. I don’t waste time with easy wins or lazy players.
+You want what’s mine, you’ve got to earn it -sharp mind, patience, and guts tight. Keep your eyes open, don’t get fooled by what’s obvious.
